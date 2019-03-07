@@ -1,0 +1,4 @@
+ - hosts: two_server
+   roles:
+    - snmpv2
+
